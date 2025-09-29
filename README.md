@@ -1,18 +1,13 @@
-## Getting Started
+# Fibonacci Heap – Data Structures Course Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository holds a simple Java implementation of a **Fibonacci heap**. The code was written as part of a university data structures course to practise building and using advanced heap‑based priority queues.
 
-## Folder Structure
+Fibonacci heaps maintain a collection of heap‑ordered trees. They support efficient merge, insert, find‑minimum and decrease‑key operations, while extract‑minimum runs in logarithmic time.
 
-The workspace contains two folders by default, where:
+## About this project
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Course:** Data Structures
+- **Language:** Java
+- **Purpose:** Implement and test a Fibonacci heap as coursework
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This README is intentionally brief; the focus of this repository is the source code submitted for the assignment.
